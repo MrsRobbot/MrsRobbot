@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BI TAH DIDIER TAH</h1>
+<h1 align="center">Hi 👋, I'm BI TAH DIDIER TAH </h1>
 <h3 align="center">Passionate Fullstack developer with expertise in Blockchain and with more than 4 years of experience in developing high quality web projects. I am proficient in programming languages such as Java, JavaScript, TypeScript and Solidity as well as frameworks such as React and Angular. I have worked on projects ranging from web application development for start-ups to large-scale projects for corporations. I enjoy working in teams to solve technical challenges and create innovative solutions to improve the user experience.
 I am also passionate about Blockchain technologies and am involved in the Blockchain developer community.</h3>
 
