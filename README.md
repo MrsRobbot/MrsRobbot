@@ -6,7 +6,7 @@ I am also passionate about Blockchain technologies and am involved in the Blockc
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Adonis Js**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **Android , MERN**
 
