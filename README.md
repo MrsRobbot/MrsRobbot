@@ -8,7 +8,7 @@ I am also passionate about Blockchain technologies and am involved in the Blockc
 
 - 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Android , MERN , MEAN**,
 
 - 📫 How to reach me **didiertah@gmail.com**
 
