@@ -24,6 +24,6 @@ I am also passionate about Blockchain technologies and am involved in the Blockc
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsrobbot&show_icons=true&locale=en&layout=compact" alt="mrsrobbot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsrobbot&show_icons=true&locale=en" alt="mrsrobbot" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsrobbot&show_icons=true&locale=en" alt="mrsrobbot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsrobbot&" alt="mrsrobbot" /></p>
